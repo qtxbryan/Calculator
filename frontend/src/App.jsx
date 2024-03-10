@@ -4,8 +4,6 @@ import axios from 'axios';
 import Input from './components/Input';
 import Button from './components/Button';
 
-// TODO to implement the error handling
-
 function App() {
 
   const input1 = useRef();
